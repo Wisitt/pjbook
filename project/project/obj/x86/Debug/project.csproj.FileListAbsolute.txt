@@ -1,0 +1,26 @@
+C:\c#\2010project\project\project\obj\x86\Debug\project.login.resources
+C:\c#\2010project\project\project\obj\x86\Debug\project.main.resources
+C:\c#\2010project\project\project\obj\x86\Debug\project.mmenu.resources
+C:\c#\2010project\project\project\obj\x86\Debug\project.Properties.Resources.resources
+C:\c#\2010project\project\project\obj\x86\Debug\project.csproj.GenerateResource.Cache
+C:\c#\2010project\project\project\bin\Debug\project.exe
+C:\c#\2010project\project\project\bin\Debug\project.pdb
+C:\c#\2010project\project\project\obj\x86\Debug\project.exe
+C:\c#\2010project\project\project\obj\x86\Debug\project.pdb
+C:\c#\2010project\project\project\obj\x86\Debug\project.book.resources
+C:\c#\2010project\project\project\obj\x86\Debug\project.users.resources
+C:\c#\2010project\project\project\obj\x86\Debug\project.adminrent.resources
+C:\c#\2010project\project\project\obj\x86\Debug\project.rent.resources
+C:\Users\ICEDTEA SOCUTE\Downloads\2010project\project\project\obj\x86\Debug\project.exe
+C:\Users\ICEDTEA SOCUTE\Downloads\2010project\project\project\obj\x86\Debug\project.pdb
+C:\Users\ICEDTEA SOCUTE\Downloads\2010project\project\project\bin\Debug\project.exe
+C:\Users\ICEDTEA SOCUTE\Downloads\2010project\project\project\bin\Debug\project.pdb
+C:\Users\ICEDTEA SOCUTE\Downloads\2010project\project\project\obj\x86\Debug\project.adminrent.resources
+C:\Users\ICEDTEA SOCUTE\Downloads\2010project\project\project\obj\x86\Debug\project.book.resources
+C:\Users\ICEDTEA SOCUTE\Downloads\2010project\project\project\obj\x86\Debug\project.login.resources
+C:\Users\ICEDTEA SOCUTE\Downloads\2010project\project\project\obj\x86\Debug\project.main.resources
+C:\Users\ICEDTEA SOCUTE\Downloads\2010project\project\project\obj\x86\Debug\project.mmenu.resources
+C:\Users\ICEDTEA SOCUTE\Downloads\2010project\project\project\obj\x86\Debug\project.Properties.Resources.resources
+C:\Users\ICEDTEA SOCUTE\Downloads\2010project\project\project\obj\x86\Debug\project.rent.resources
+C:\Users\ICEDTEA SOCUTE\Downloads\2010project\project\project\obj\x86\Debug\project.users.resources
+C:\Users\ICEDTEA SOCUTE\Downloads\2010project\project\project\obj\x86\Debug\project.csproj.GenerateResource.Cache
